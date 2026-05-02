@@ -4,7 +4,7 @@ Interactive Excel dashboard analyzing bike sales trends using pivot tables and c
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Bike_sales_dashboard.png)
+![Dashboard Screenshot](Bike_sales_service.png)
 
 ## Tools Used
 
@@ -24,7 +24,7 @@ Interactive Excel dashboard analyzing bike sales trends using pivot tables and c
 ## Files Included
 
 * Bike_Sales_Dashboard.xlsx
-* Bike_sales_dashboard.png
+* Bike_sales_service.png
 
 ## Project Purpose
 
